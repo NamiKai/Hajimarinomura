@@ -78,32 +78,11 @@ body {
   background: transparent;
 }
 
-/* 中身 */
-.header-inner {
-  max-width: 375px;
-  margin: 0 auto;
-  padding: 10px 15px;
-
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-/* ===== ヘッダー ===== */
-.header {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  z-index: 100;
-  background: transparent;
-}
-
 /* ヘッダー内レイアウト */
 .header-inner {
   width: 100%;
   margin: 0;
-  padding: 0 15px;
+  padding: 0 25px;
   height: 60px;
   display: flex;
   justify-content: space-between;
